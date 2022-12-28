@@ -32,7 +32,6 @@ Launch Pad App is hub for launching Apps and websites.
 - ClearCollect(*colAudience*,{AppType:"Agency"},{AppType:"Department"},{AppType:"Statewide"}) : Agency Type for Dropdown
 - ClearCollect(*col_allActiveApps*,Sort(Filter(Filter('Company App Catalog',AppStatus.Value = "Active"),AgencyFilter = Text(varCompany) Or AgencyFilter = Text(varDept) Or Text(varDomain) = AgencyFilter Or Audience = "Statewide"),Title)) : Filter List based on your information and App Status
 - ClearCollect(*col_CatNew*,{AppCat:"Training"},{AppCat:"Admin"},{AppCat:"HR"},{AppCat:"Org Apps"}) : App Category for Dropdown
-- );
 - ClearCollect(*col_Cat*,Distinct('Company App Catalog',Category) : App Category list for gallery on main page
 
 ------------
