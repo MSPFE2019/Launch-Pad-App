@@ -54,3 +54,14 @@ Launch Pad App is hub for launching Apps and websites.
 8. Check app for any errors
 9. Publish and Share app with your users.
 
+------------
+
+
+![Loading Screen](https://github.com/MSPFE2019/Launch-Pad-App/blob/main/LPA_LoadingScreen.png "Loading Screen")
+
+------------
+[![MainScreen](https://github.com/MSPFE2019/Launch-Pad-App/blob/main/LPA_HomeScreen.png "MainScreen")](https://github.com/MSPFE2019/Launch-Pad-App/blob/main/LPA_HomeScreen.png "MainScreen")
+
+------------
+
+[![Maint Screen](https://github.com/MSPFE2019/Launch-Pad-App/blob/main/LPA_LoadingScreen.png "Maint Screen")](http://https://github.com/MSPFE2019/Launch-Pad-App/blob/main/LPA_LoadingScreen.png "Maint Screen")
