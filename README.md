@@ -63,5 +63,4 @@ Launch Pad App is hub for launching Apps and websites.
 [![MainScreen](https://github.com/MSPFE2019/Launch-Pad-App/blob/main/LPA_HomeScreen.png "MainScreen")](https://github.com/MSPFE2019/Launch-Pad-App/blob/main/LPA_HomeScreen.png "MainScreen")
 
 ------------
-
-[![Maint Screen](https://github.com/MSPFE2019/Launch-Pad-App/blob/main/LPA_LoadingScreen.png "Maint Screen")](http://https://github.com/MSPFE2019/Launch-Pad-App/blob/main/LPA_LoadingScreen.png "Maint Screen")
+[![Maint Screen](https://github.com/MSPFE2019/Launch-Pad-App/blob/main/LPA_MaintScreen.png "Maint Screen")](https://github.com/MSPFE2019/Launch-Pad-App/blob/main/LPA_MaintScreen.png "Maint Screen")
