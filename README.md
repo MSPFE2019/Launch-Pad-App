@@ -1,5 +1,5 @@
 # Launch Pad App
-Launch Pad App is hub for launching Apps and websites.
+Launch Pad App is a hub for launching Power Apps, websites, and any url based Application.
 ------------
 [![Launch Pad App](https://github.com/MSPFE2019/Launch-Pad-App/blob/main/LPA_HomeScreen.png "Launch Pad App")](https://github.com/MSPFE2019/Launch-Pad-App/blob/main/LPA_HomeScreen.png "Launch Pad App")
 
