@@ -1,7 +1,10 @@
 # Launch Pad App
 Launch Pad App is hub for launching Apps and websites.
 ------------
+[![Launch Pad App](https://github.com/MSPFE2019/Launch-Pad-App/blob/main/LPA_HomeScreen.png "Launch Pad App")](https://github.com/MSPFE2019/Launch-Pad-App/blob/main/LPA_HomeScreen.png "Launch Pad App")
 
+
+------------
 
 
 ### App Onstart
