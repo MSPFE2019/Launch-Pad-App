@@ -15,9 +15,9 @@ Launch Pad App is a hub for launching Power Apps, websites, and any url based Ap
 #### Variables
 
 
-- Set(**varDept** , Office365Users.UserProfile(User().Email).Department) : Get User Department
-- Set(**varCompany** , Office365Users.UserProfile(User().Email).CompanyName) : Get User CompanyName
-- Set(**varDomain** , Last(Split(User().Email,"@")).Result) : Get User Email Domain
+- Set(**varDept** , Office365Users.UserProfile(User().Email).Department) : Get User Department used by AgencyFilter Field
+- Set(**varCompany** , Office365Users.UserProfile(User().Email).CompanyName) : Get User CompanyName used by AgencyFilter Field
+- Set(**varDomain** , Last(Split(User().Email,"@")).Result) : Get User Email Domain used by AgencyFilter Field
 - Set(**appTitle**,"Launch Pad") : App Title
 
 
