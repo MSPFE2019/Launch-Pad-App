@@ -37,8 +37,10 @@ Launch Pad App is a hub for launching Power Apps, websites, and any url based Ap
 
 ------------
 ### App Components
-- [Launch Pad App](https://github.com/MSPFE2019/Launch-Pad-App/blob/main/LaunchPad_20221228220324.zip "Launch Pad App") - Canvas App
+- [Launch Pad App](https://github.com/MSPFE2019/Launch-Pad-App/blob/main/LaunchPadApp_20230123170529.zip "Launch Pad App") - Canvas App
 - [CreateList_LaunchPadApp](https://github.com/MSPFE2019/Launch-Pad-App/blob/main/CreateList_LaunchPadApp_20221229035826.zip "CreateList_LaunchPadApp") - Power Automate to create list for Launch Pad App
+- [Launch Pad App Solution](https://github.com/MSPFE2019/Launch-Pad-App/blob/main/LaunchPadApp_1_0_0_1.zip "CreateList_LaunchPadApp") - Solution  for Launch Pad App ( Power App, Create List Power Automate, Power Automate to use the version information)
+
 
 
 ------------
